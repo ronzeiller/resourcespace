@@ -1,6 +1,7 @@
 # rs_multi_edit
 See if there is any information entered in a field - Resource Space Plugin for Multi Edit
 by Ronnie Zeiller - www.zeiller.eu
+Tested with Version 7.1 and 7.2
 
 WHAT IT IS
 ==========
